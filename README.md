@@ -2,7 +2,7 @@
 
 ## Aufgabe 2: MULTIFIT Algorithmus
 
-### Autor: Cat Lam Tang (MatrikelNr: 1161546)
+### Autor: Cat Lam Tang (MatrikelNr: 1161546), Korab Selmonaj, Gülhan Metehan Turkan,Lara Schulz
 
 Dieses Projekt enthält die Lösungen zu Aufgabe 2 des Moduls Operations Research und fokussiert den MULTIFIT-Algorithmus aus Kapitel 8.2 von Lenstra & Shmoys. Der Schwerpunkt liegt auf Bin-Packing mit **First-Fit Decreasing (FFD)** als Sub-Routine sowie der Analyse von Laufzeit- und Speicherverhalten für unterschiedliche Instanzgrößen.
 
